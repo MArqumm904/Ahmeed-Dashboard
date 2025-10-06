@@ -1,2 +1,2 @@
-export const apiUrl = "http://localhost/EnglishLearning/backend";
-// export const apiUrl = "https://login.martello.pk/backend";
+export const apiUrl = "http://127.0.0.1:8000/api";
+// export const apiUrl = "https://backend.fusixtech.com/api";
